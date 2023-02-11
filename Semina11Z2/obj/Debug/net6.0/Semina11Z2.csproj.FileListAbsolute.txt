@@ -1,0 +1,15 @@
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.csproj.AssemblyReference.cache
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.AssemblyInfoInputs.cache
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.AssemblyInfo.cs
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.csproj.CoreCompileInputs.cache
+C:\Users\WS\Documents\Semina11\Semina11Z2\bin\Debug\net6.0\Semina11Z2.exe
+C:\Users\WS\Documents\Semina11\Semina11Z2\bin\Debug\net6.0\Semina11Z2.deps.json
+C:\Users\WS\Documents\Semina11\Semina11Z2\bin\Debug\net6.0\Semina11Z2.runtimeconfig.json
+C:\Users\WS\Documents\Semina11\Semina11Z2\bin\Debug\net6.0\Semina11Z2.dll
+C:\Users\WS\Documents\Semina11\Semina11Z2\bin\Debug\net6.0\Semina11Z2.pdb
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.dll
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\refint\Semina11Z2.dll
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.pdb
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\Semina11Z2.genruntimeconfig.cache
+C:\Users\WS\Documents\Semina11\Semina11Z2\obj\Debug\net6.0\ref\Semina11Z2.dll
