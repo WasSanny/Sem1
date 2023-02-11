@@ -52,34 +52,60 @@
 //Третий вариант решения задачи 2 поиска дня недели по номеру
 // с использованием конструкции Switch case
 
-Console.WriteLine("Введите номер дня недели: ");
-if (int.TryParse(Console.ReadLine(), out int a))
+// Console.WriteLine("Введите номер дня недели: ");
+// if (int.TryParse(Console.ReadLine(), out int a))
+// {
+//   switch(a)
+//   {
+//     case 1:
+//       Console.WriteLine("Понедельник");
+//       break;
+//     case 2:
+//       Console.WriteLine("Вторник");
+//       break;
+//     case 3:
+//       Console.WriteLine("Среда");
+//       break;
+//     case 4:
+//       Console.WriteLine("Четверг");
+//       break;
+//     case 5:
+//       Console.WriteLine("Пятница");
+//       break;
+//     case 6:
+//       Console.WriteLine("Суббота");
+//       break;
+//     case 7:
+//       Console.WriteLine("Воскресенье");
+//       break;
+//     default:
+//       Console.WriteLine("Нет такого дня недели!");
+//       break;
+//   }
+// }
+
+
+// Вариант решения задачи 1 и 2 с возможностью выбора задачи для решения
+
+bool isWork = true;
+
+while(isWork)
 {
-  switch(a)
+  Console.Write("Введите номер задачи: ");
+
+  if (int.TryParse(Console.ReadLine(), out int i))
+
+  switch(i)
   {
     case 1:
-      Console.WriteLine("Понедельник");
-      break;
+    {
+      // Пишем код программы(задачи 1)
+    }
     case 2:
-      Console.WriteLine("Вторник");
-      break;
-    case 3:
-      Console.WriteLine("Среда");
-      break;
-    case 4:
-      Console.WriteLine("Четверг");
-      break;
-    case 5:
-      Console.WriteLine("Пятница");
-      break;
-    case 6:
-      Console.WriteLine("Суббота");
-      break;
-    case 7:
-      Console.WriteLine("Воскресенье");
-      break;
-    default:
-      Console.WriteLine("Нет такого дня недели!");
-      break;
+    {
+      // Пишем код программы(задачи 2)
+    }
+    case - 1: isWork = false; break;
   }
+
 }
