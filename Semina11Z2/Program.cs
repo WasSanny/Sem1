@@ -87,25 +87,24 @@
 
 // Вариант решения задачи 1 и 2 с возможностью выбора задачи для решения
 
-bool isWork = true;
+// bool isWork = true;
 
-while(isWork)
-{
-  Console.Write("Введите номер задачи: ");
+// while(isWork)
+// {
+//   Console.Write("Введите номер задачи: ");
+//   if (int.TryParse(Console.ReadLine(), out int i))
 
-  if (int.TryParse(Console.ReadLine(), out int i))
+//   switch(i)
+//   {
+//     case 1:
+//     {
+//       // Пишем код программы(задачи 1)
+//     }
+//     case 2:
+//     {
+//       // Пишем код программы(задачи 2)
+//     }
+//     case - 1: isWork = false; break;
+//   }
 
-  switch(i)
-  {
-    case 1:
-    {
-      // Пишем код программы(задачи 1)
-    }
-    case 2:
-    {
-      // Пишем код программы(задачи 2)
-    }
-    case - 1: isWork = false; break;
-  }
-
-}
+// }
